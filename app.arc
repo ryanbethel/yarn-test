@@ -1,2 +1,4 @@
 @app
 yarn-test
+
+@static
