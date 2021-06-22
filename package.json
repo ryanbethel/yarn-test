@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ryanbethel/yarn-test#readme",
   "devDependencies": {
+    "@architect/sandbox": "^3.7.1",
     "yarn": "^1.22.10"
   }
 }
