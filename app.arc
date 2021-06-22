@@ -7,5 +7,4 @@ yarn-test
 
 
 @begin
-install echo "not installing"
-hydrate echo "not hydrating"
+hydrate echo skiphydrate
