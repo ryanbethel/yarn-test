@@ -2,3 +2,5 @@
 yarn-test
 
 @static
+
+@http
